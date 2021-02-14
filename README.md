@@ -15,5 +15,3 @@ Refresh the page to start a new match
 ## Here is a [link to the deployed site.](https://mikeyrod22.github.io/rps/)
 
 Enjoy!
-
-- Michael Rodriguez
