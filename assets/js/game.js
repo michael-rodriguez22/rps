@@ -12,7 +12,7 @@ window.setTimeout(function() {
         let computerChoice = gameChoices[Math.floor(Math.random() * gameChoices.length)];
         console.log(`Round ${(i + 1)}... The computer has chosen ${computerChoice}. If you can see this, close the console! Dirty cheater...`);
         // collect user response and convert to all lowercase
-        let userChoice = window.prompt("Would you like to choose 'rock', 'paper, or 'scissors'?");
+        let userChoice = window.prompt("Would you like to choose 'rock', 'paper', or 'scissors'?");
         userChoice = userChoice.toLowerCase();
         // if valid response
         if ((userChoice === 'rock') || (userChoice === 'paper') || (userChoice === 'scissors')) {
