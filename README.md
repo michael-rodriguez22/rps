@@ -12,8 +12,6 @@ Results of the three games are displayed at the end of each match.
 
 Refresh the page to start a new match
 
-## Here is a [link to the deployed site.](https://mikeyrod22.github.io/RPS/)
+## Here is a [link to the deployed site.](https://mikeyrod22.github.io/rps/)
 
 Enjoy!
-
-- Michael Rodriguez
